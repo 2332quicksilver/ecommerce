@@ -18,13 +18,13 @@ const Contact = () => {
             any query and info about product feel free to call anytime we 24X7 available         
           </p>
           <p className="mt-3">
-            <BiMailSend /> : www.help@beacon.com
+            <BiMailSend /> : vm7740014@gmail.com
           </p>
           <p className="mt-3">
-            <BiPhoneCall /> : 012-3456789
+            <BiPhoneCall /> : 6388779243
           </p>
           <p className="mt-3">
-            <BiSupport /> : 1800-0000-0000 (toll free)
+            <BiSupport /> : https://github.com/wishallmaurya/ecommerce.git
           </p>
         </div>
       </div>
